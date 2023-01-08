@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+(https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 
 Welcome to my portfolio! I am Noam Mirjani, a third Computer Science student. I have a passion for developing innovative software solutions. My education and hands-on experience have given me a strong foundation in a variety of programming languages and technologies.
 
