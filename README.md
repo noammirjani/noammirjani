@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Noam Mirjani! 💁🏽❤💻</h1>
+<h1 align="center">Hey there, I'm Noam Mirjani! 👩🏽‍💻</h1>
 
 <p align="center">Welcome to my GitHub profile! I'm a highly motivated software developer and recent Computer Science graduate. Passionate about tackling challenges and delivering impactful solutions.</p>
 
