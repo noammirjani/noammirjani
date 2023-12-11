@@ -50,11 +50,26 @@
   </ul>
 </p>
 
-<h2 align="center">Connect with Me 🌐</h2>
+<h2 align="center">GitHub Stats 📊</h2>
+<div style="display: flex; justify-content: space-between;" align="center">
+  <img height="160px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noammirjani&show_icons=true&hide_rank=true" />
+  <img height="160px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noammirjani&layout=compact" />
+</div>
+
+<h2 align="center">Let's Connect! 🌐</h2>
 <p align="center">
-  Let's connect and explore exciting opportunities together! <br/>
-  📫 Email: <a href="mailto:noamirjani@gmail.com">noamirjani@gmail.com</a> <br/>
+  Excited about potential collaborations and new opportunities! Feel free to reach out via: <br/>
+  📧 Email: <a href="mailto:noamirjani@gmail.com">noamirjani@gmail.com</a> <br/>
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/noam-mirjani-791068244/">Noam Mirjani</a>
 </p>
 
+<p align="center">
+<a href="https://github.com/noammirjani" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/noam-mirjani-791068244/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:noamirjani@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 <p align="center">Ready to collaborate and build something incredible together! 😊</p>
+
+
+
