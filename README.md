@@ -29,13 +29,11 @@
   
   <!-- Database -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/452/mysql-logo.png" alt="MySQL" width="40" height="40"/>
   
   <!-- Version Control -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   
   <!-- Other Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-small.png" alt="SFML" width="40" height="40"/>
 
