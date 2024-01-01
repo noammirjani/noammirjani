@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, I'm Noam Mirjani! 👩🏽‍💻</h1>
 
-<p align="center">Welcome to my GitHub profile! I'm a highly motivated software developer and recent Computer Science graduate. Passionate about tackling challenges and delivering impactful solutions.</p>
+<p align="center">
+Welcome to my GitHub profile! I am a proactive software developer and recent Computer Science graduate, driven by a strong passion for problem-solving and delivering impactful solutions.
+</p>
  <p align="center">
 <a href="https://github.com/noammirjani" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/noam-mirjani-791068244/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -43,10 +45,11 @@
 
 <h2 align="center">Professional Journey</h2>
 <p align="center">
-  🚀 Actively seeking a challenging full-time software developer role to leverage skills and passion <br/>
-  🌟 Successfully completed Excellenteam In Academy's Scale-Up Velocity bootcamp in 2023 <br/>
-  🛠️ Engaged in an intensive 5-week bootcamp, refining programming skills to industry standards <br/>
-  🌐 Focused on crafting clean, elegant, and efficient code, while mastering advanced software development principles
+    🚀 Actively seeking a challenging full-time software developer role to leverage skills and passion. <br/>
+    🌟 Bachelor's degree in Computer Science.<br/> 
+     🛠️ Successfully completed the "Excellenteam In Academy" program at Scale-Up Velocity in 2023,
+    comprising an intensive 5-week bootcamp focused on refining programming skills to meet and exceed industry standards.
+    Focused on crafting clean, elegant, and efficient code, while mastering advanced software development principles
 </p>
 
 <h2 align="center">Education</h2>
