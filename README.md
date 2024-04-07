@@ -4,7 +4,8 @@
 Welcome to my GitHub profile! I am a proactive software developer and recent Computer Science graduate, driven by a strong passion for problem-solving and delivering impactful solutions.
 </p>
  <p align="center">
-<a href="https://github.com/noammirjani" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://gitlab.com/noammirjani" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white" /></a>
+<a href="https://github.com/noammirjani" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/noam-mirjani-791068244/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:noamirjani@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -55,7 +56,7 @@ Welcome to my GitHub profile! I am a proactive software developer and recent Com
 <h2 align="center">Education</h2>
 <p align="center">
   🎓 B.Sc. in Computer Science, Hadassah Academic College, 2020-2023 <br/>
-  📚 GPA: 91.77 <br/>
+  📚 GPA: 92 <br/>
   Completed Courses:
   <ul align="center">
      <li>Operating Systems & Parallel Programming</li>
