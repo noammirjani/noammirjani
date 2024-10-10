@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I am a proactive software developer and recent Com
 <h2 align="center">Professional Journey</h2>
 <p align="center">
     🚀 Actively seeking a challenging full-time software developer role to leverage skills and passion. <br/>
-    🌟 Bachelor's degree in Computer Science.<br/> 
+    🌟 Bachelor's degree in Computer Science, graduated with honors.<br/> 
      🛠️ Successfully completed the "Excellenteam In Academy" program at Scale-Up Velocity in 2023,
     comprising an intensive 5-week bootcamp focused on refining programming skills to meet and exceed industry standards.
     Focused on crafting clean, elegant, and efficient code, while mastering advanced software development principles
